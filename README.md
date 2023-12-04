@@ -84,7 +84,7 @@ escaVerse is a 3D side view, VR compatible, Endless Runner game built on Unreal 
      - void OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult): Monitors and handles collisions between track elements.
 
 
-## 3. Tesztelés
+## 3. Test
 • I tested the game manually based on the following aspects:
      - Appropriate appearance and positioning of the game surface and characters.
 
